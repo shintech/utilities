@@ -1,0 +1,22 @@
+paste into db.sql
+
+INSERT INTO models ( name,attribute )
+VALUES ( 'core',60357 );
+INSERT INTO models ( name,attribute )
+VALUES ( 'purple',36369 );
+INSERT INTO models ( name,attribute )
+VALUES ( 'Idaho',64918 );
+INSERT INTO models ( name,attribute )
+VALUES ( 'Malaysian Ringgit',25040 );
+INSERT INTO models ( name,attribute )
+VALUES ( 'Wooden',13140 );
+INSERT INTO models ( name,attribute )
+VALUES ( 'virtual',73649 );
+INSERT INTO models ( name,attribute )
+VALUES ( 'Books',12605 );
+INSERT INTO models ( name,attribute )
+VALUES ( 'reciprocal',9625 );
+INSERT INTO models ( name,attribute )
+VALUES ( 'parsing',43097 );
+INSERT INTO models ( name,attribute )
+VALUES ( 'Corporate',51337 );
