@@ -10,7 +10,7 @@ var attrs = []
 var values = []
 const entries = []
 
-fs.writeFile('db.txt', 'paste into db.sql\n\n')
+fs.writeFile('db.txt', '\n')
 
 getArrays()
 
